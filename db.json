@@ -1,0 +1,103 @@
+{
+  "product": [{
+      "id": 1,
+      "name": "Rattlesnake, horned",
+      "catagory": "Crimson"
+    },
+    {
+      "id": 2,
+      "name": "Egret, cattle",
+      "catagory": "Fuscia"
+    },
+    {
+      "id": 3,
+      "name": "Richardson's ground squirrel",
+      "catagory": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "Elegant crested tinamou",
+      "catagory": "Turquoise"
+    },
+    {
+      "id": 5,
+      "name": "Caribou",
+      "catagory": "Aquamarine"
+    },
+    {
+      "id": 6,
+      "name": "Salmon, sockeye",
+      "catagory": "Teal"
+    },
+    {
+      "id": 7,
+      "name": "Fox, crab-eating",
+      "catagory": "Pink"
+    },
+    {
+      "id": 8,
+      "name": "Lion, galapagos sea",
+      "catagory": "Teal"
+    },
+    {
+      "id": 9,
+      "name": "River wallaby",
+      "catagory": "Blue"
+    },
+    {
+      "id": 10,
+      "name": "Brush-tailed phascogale",
+      "catagory": "Blue"
+    },
+    {
+      "id": 11,
+      "name": "Tenrec, tailless",
+      "catagory": "Aquamarine"
+    },
+    {
+      "id": 12,
+      "name": "Cat, tiger",
+      "catagory": "Aquamarine"
+    },
+    {
+      "id": 13,
+      "name": "Waved albatross",
+      "catagory": "Teal"
+    },
+    {
+      "id": 14,
+      "name": "Sandhill crane",
+      "catagory": "Aquamarine"
+    },
+    {
+      "id": 15,
+      "name": "Cormorant, flightless",
+      "catagory": "Crimson"
+    },
+    {
+      "id": 16,
+      "name": "Buffalo, african",
+      "catagory": "Violet"
+    },
+    {
+      "id": 17,
+      "name": "Eastern boa constrictor",
+      "catagory": "Crimson"
+    },
+    {
+      "id": 18,
+      "name": "Quoll, eastern",
+      "catagory": "Indigo"
+    },
+    {
+      "id": 19,
+      "name": "Southern screamer",
+      "catagory": "Pink"
+    },
+    {
+      "id": 20,
+      "name": "Frogmouth, tawny",
+      "catagory": "Aquamarine"
+    }
+  ]
+}
